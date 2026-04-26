@@ -17,7 +17,7 @@ I recently graduated with a degree in Data Science from the Faculty of Science, 
 ### 🚀 Featured Project
 
 <a href="https://github.com/EarthPuwanart/board-game-recommender">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=board-game-recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=board-game-recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1" />
 </a>
 
 > **Board Game Recommender System** — A hybrid recommendation engine combining SBERT semantic embeddings (Content-Based) and SVD matrix factorization (Collaborative Filtering) with a full-stack FastAPI + Vanilla JS dashboard. Features Discover, Mix & Match, and AI Picks modes.
