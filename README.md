@@ -39,7 +39,7 @@ I recently graduated with a degree in Data Science from the Faculty of Science, 
 </p>
 
 **Core:** Python · R · SQL · JavaScript · HTML/CSS  
-**ML/AI:** Scikit-learn · TensorFlow · SBERT · Surprise (SVD) · Pandas · NumPy  
+**ML/AI:** Scikit-learn · TensorFlow · SBERT · Pandas · NumPy  
 **Web:** FastAPI · Uvicorn · REST APIs  
 **Tools:** Git · VS Code · Jupyter · Power BI  
 
