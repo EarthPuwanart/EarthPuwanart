@@ -10,6 +10,7 @@ I recently graduated with a degree in Data Science from the Faculty of Science, 
 * 🎓  B.Sc. in Data Science — Silpakorn University (2026)
 * 💼  Open to Data Science / ML Engineer opportunities
 * ✉️  You can contact me at [puwanart2003.earth@gmail.com](mailto:puwanart2003.earth@gmail.com)
+* 📄  View my [Resume](https://github.com/EarthPuwanart/EarthPuwanart/blob/main/Resume.pdf)
 
 ---
 
