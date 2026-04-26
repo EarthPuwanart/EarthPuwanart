@@ -6,7 +6,7 @@ Data Science Graduate | Silpakorn University
 
 I recently graduated with a degree in Data Science from the Faculty of Science, Silpakorn University. My expertise lies in building end-to-end Machine Learning applications—from data analysis and model development to deploying interactive web-based systems. I'm passionate about Recommender Systems, NLP, and turning data into impactful products.
 
-* 🌍  I'm based in Nakhon Pathom, Thailand
+* 🌍  I'm based in Ratchaburi, Thailand
 * 🎓  B.Sc. in Data Science — Silpakorn University (2026)
 * 💼  Open to Data Science / ML Engineer opportunities
 * ✉️  You can contact me at [puwanart2003.earth@gmail.com](mailto:puwanart2003.earth@gmail.com)
