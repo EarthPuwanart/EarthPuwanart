@@ -16,11 +16,10 @@ I recently graduated with a degree in Data Science from the Faculty of Science, 
 
 ### 🚀 Featured Project
 
-<div width="100%" align="center">
-<a href="https://github.com/EarthPuwanart/board-game-recommender" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=board-game-recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1" /></a>
-<a href="https://github.com/EarthPuwanart/thai-song-mood-classifier" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=thai-song-mood-classifier&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=1" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+  <a href="https://github.com/EarthPuwanart/board-game-recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=board-game-recommender&theme=tokyonight&hide_border=true&v=4" /></a>&ensp;&ensp;
+  <a href="https://github.com/EarthPuwanart/thai-song-mood-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=thai-song-mood-classifier&theme=tokyonight&hide_border=true&v=4" /></a>
+</p>
 
 ---
 
