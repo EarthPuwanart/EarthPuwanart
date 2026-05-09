@@ -16,10 +16,9 @@ I recently graduated with a degree in Data Science from the Faculty of Science, 
 
 ### 🚀 Featured Project
 
-<p align="left">
-  <a href="https://github.com/EarthPuwanart/board-game-recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=board-game-recommender&theme=tokyonight&hide_border=true&v=4" /></a>&ensp;&ensp;
-  <a href="https://github.com/EarthPuwanart/thai-song-mood-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EarthPuwanart&repo=thai-song-mood-classifier&theme=tokyonight&hide_border=true&v=4" /></a>
-</p>
+| 🧩 [board-game-recommender](https://github.com/EarthPuwanart/board-game-recommender) | 🎵 [thai-song-mood-classifier](https://github.com/EarthPuwanart/thai-song-mood-classifier) |
+| :--- | :--- |
+| A full-stack web application featuring a hybrid ML recommender model powered by FastAPI. | A machine learning model for classifying the mood of Thai songs using NLP and audio extraction. |
 
 ---
 
